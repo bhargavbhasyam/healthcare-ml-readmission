@@ -8,3 +8,4 @@ uvicorn
 scipy
 pytest
 imblearn
+imbalanced-learn
